@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**matheus-as/matheus-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## M.Sc. Mechatronic Systems – Engineering Portfolio
 
-Here are some ideas to get you started:
+This repository contains projects and academic work developed throughout my professional experience, with a focus on embedded systems, control engineering, signal processing, and experimental validation of dynamic systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Main Topics
+
+- Embedded systems and ECU development
+- Control systems and model-based design (MATLAB/Simulink)
+- Signal processing and experimental data analysis
+- Hardware-in-the-loop (HIL) validation
+- Automotive communication systems (e.g., CAN)
+- Sensor data acquisition and instrumentation
+
+## 🧪 Key Areas
+
+- Development of automotive embedded architectures
+- Design and validation of real-time control systems
+- Experimental testing using HIL platforms
+- Analysis of time-series data from physical systems
+
+## 🛠️ Tools & Technologies
+
+- MATLAB / Simulink
+- Embedded C
+- Python (basic scripting)
+- LabVIEW
+- Speedgoat HIL
+- Altium Designer
+- LTspice
+
+## 📚 About
+
+This repository is intended for academic documentation, experimental implementations, and system validation work developed throughout my career.
+
+## 📫 Contact
+
+Feel free to reach out for collaboration or questions.
